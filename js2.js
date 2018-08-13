@@ -13,3 +13,5 @@ for(var x=0; x<numberArray.length; x++)
 }
 
 console.log(sum);
+
+// This is only the text from the gist. Please follow the directions in the README. From Kenn

@@ -1,9 +1,22 @@
-var arrayOfNubers = [30,37,38,45,47];
+var arrayOfNames = [Smith, Keats, Moby, Jack];
 
 var stringOfArray = "";
-for(var i = 0; i < arrayOfNubers.length; i++)
+for(var i = 0; i < arrayOfNames.length; i++)
 {
-    stringOfArray += arrayOfNubers[i] + ", ";
+    stringOfArray += arrayOfNames[i] + ", ";
 }
 
 document.getElementById("something").textContent= stringOfArray;
+
+
+
+
+
+
+
+
+
+
+
+
+
